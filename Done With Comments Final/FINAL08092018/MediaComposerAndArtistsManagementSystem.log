@@ -1,0 +1,123 @@
+2018-09-08-main-WARN -root      :Invalid Credentials!
+2018-09-08-main-INFO -root      :Admin Logged In
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-ERROR-root      :java.util.InputMismatchException
+2018-09-09-main-INFO -root      :Composer Added!
+2018-09-09-main-INFO -root      :Composer Name Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Search Successful!
+2018-09-09-main-INFO -root      :Composer Born Date Updated Successfully!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Composer Search Successful!
+2018-09-09-main-INFO -root      :Composer Born Date Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Died Date Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Died Date Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Caeipi Number Updated Successfully!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Composer Search Successful!
+2018-09-09-main-INFO -root      :Composer Added!
+2018-09-09-main-INFO -root      :Composer Name Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Name Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Born Date Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Died Date Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Caeipi Number Updated Successfully!
+2018-09-09-main-INFO -root      :Composer Music SocietyId Updated Successfully!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Artist Search Successful!
+2018-09-09-main-ERROR-root      :java.util.InputMismatchException
+2018-09-09-main-ERROR-root      :java.util.InputMismatchException
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-WARN -root      :Invalid Credentials!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Artist Name Updated Successfully!
+2018-09-09-main-INFO -root      :Artist Name Updated Successfully!
+2018-09-09-main-INFO -root      :Artist Type Updated Successfully!
+2018-09-09-main-INFO -root      :Artist Born Date Updated Successfully!
+2018-09-09-main-INFO -root      :Artist Died Date Updated Successfully!
+2018-09-09-main-WARN -root      :Invalid Credentials!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-WARN -root      :Song not Found in the Database!
+2018-09-09-main-WARN -root      :No Composer Found!
+2018-09-09-main-INFO -root      :Composer Assosciated With Song Sucessfully!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-WARN -root      :Invalid Credentials!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-WARN -root      :No Composer Found!
+2018-09-09-main-INFO -root      :Composer Assosciated With Song Sucessfully!
+2018-09-09-main-WARN -root      :Song not Found in the Database!
+2018-09-09-main-WARN -root      :No Artist Found!
+2018-09-09-main-WARN -root      :Song Not Found in the Database!
+2018-09-09-main-ERROR-root      :java.util.InputMismatchException
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-WARN -root      :No Artist Found!
+2018-09-09-main-WARN -root      :Song Not Found in the Database!
+2018-09-09-main-WARN -root      :Song Not Found in the Database!
+2018-09-09-main-WARN -root      :Song Not Found in the Database!
+2018-09-09-main-ERROR-root      :com.cg.artistsmanagementsystem.exception.AdminException: java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12519, TNS:no appropriate service handler found
+ Error in Logging In!
+Please Try Again! 
+2018-09-09-main-ERROR-root      :com.cg.artistsmanagementsystem.exception.AdminException: java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12519, TNS:no appropriate service handler found
+ Error in Logging In!
+Please Try Again! 
+2018-09-09-main-ERROR-root      :com.cg.artistsmanagementsystem.exception.AdminException: java.sql.SQLException: Listener refused the connection with the following error:
+ORA-12519, TNS:no appropriate service handler found
+ Error in Logging In!
+Please Try Again! 
+2018-09-09-main-ERROR-root      :com.cg.artistsmanagementsystem.exception.AdminException: Listener refused the connection with the following error:
+ORA-12519, TNS:no appropriate service handler found
+ Error in Logging In!
+Please Try Again! 
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-ERROR-root      :com.cg.artistsmanagementsystem.exception.AdminException: ORA-00942: table or view does not exist
+
+ Song Cannot Be Associated With Artist!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Artist Assosciated With Song Successfully!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-WARN -root      :Song Not Found in the Database!
+2018-09-09-main-INFO -root      :Artist Assosciated With Song Successfully!
+2018-09-09-main-INFO -root      :Admin Logged In!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-INFO -root      :Associated Songs Found and Displayed!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-WARN -root      :Invalid Credentials!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-WARN -root      :Composer Not Found!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-WARN -root      :Composer Not Found!
+2018-09-09-main-INFO -root      :Associated Songs Found and Displayed!
+2018-09-09-main-WARN -root      :Artist Not Found!
+2018-09-09-main-WARN -root      :Artist Not Found!
+2018-09-09-main-INFO -root      :Associated Songs Found and Displayed!
+2018-09-09-main-WARN -root      :Invalid Credentials!
+2018-09-09-main-INFO -root      :User Logged In!
+2018-09-09-main-INFO -root      :Application Terminated!
+2018-09-09-main-ERROR-root      :Invalid Inputs
+2018-09-09-main-ERROR-root      :Invalid Inputs
+2018-09-09-main-WARN -root      :Invalid Credentials!
+2018-09-09-main-INFO -root      :Application Terminated!
+2018-09-10-main-ERROR-root      :Invalid Inputs
+2018-09-10-main-WARN -root      :Invalid Credentials!
+2018-09-10-main-INFO -root      :Admin Logged In!
